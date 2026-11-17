@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+.server*.pid
+.env
+.env.*
+!.env.example
+lanes.json
+lanes.tmp
+routes.json
+routes.tmp
+evaluation.json
+preview*.png
+static/k305-map-reference.png
+static/k305-route-sketch.png
