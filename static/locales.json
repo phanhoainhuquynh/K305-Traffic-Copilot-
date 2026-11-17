@@ -1,0 +1,1237 @@
+[
+  [
+    "Dữ liệu cục bộ",
+    "Local data",
+    "Lokale Daten"
+  ],
+  [
+    "Quan sát giao thông",
+    "Traffic monitoring",
+    "Verkehrsbeobachtung"
+  ],
+  [
+    "Hướng dẫn",
+    "Help",
+    "Hilfe"
+  ],
+  [
+    "Hiểu chuyển động.",
+    "Understand movement.",
+    "Bewegung verstehen."
+  ],
+  [
+    "Nhìn trước hành trình.",
+    "Anticipate the journey.",
+    "Wege voraussehen."
+  ],
+  [
+    "Khám phá giao thông K305 bằng dữ liệu và hội thoại.",
+    "Explore K305 traffic through data and conversation.",
+    "K305-Verkehr mit Daten und Dialogen erkunden."
+  ],
+  [
+    "↓ Xuất phân tích",
+    "↓ Export analysis",
+    "↓ Analyse exportieren"
+  ],
+  [
+    "Thống kê",
+    "Statistics",
+    "Statistik"
+  ],
+  [
+    "ĐỐI TƯỢNG TRONG CẢNH",
+    "OBJECTS IN SCENE",
+    "OBJEKTE IN DER SZENE"
+  ],
+  [
+    "ĐỐI TƯỢNG ĐANG CHỌN",
+    "SELECTED OBJECT",
+    "AUSGEWÄHLTES OBJEKT"
+  ],
+  [
+    "KHOẢNG DỰ ĐOÁN",
+    "PREDICTION HORIZON",
+    "PROGNOSEZEITRAUM"
+  ],
+  [
+    "CẶP CẦN XEM XÉT",
+    "PAIRS TO REVIEW",
+    "ZU PRÜFENDE PAARE"
+  ],
+  [
+    "Đang tải dữ liệu…",
+    "Loading data…",
+    "Daten werden geladen…"
+  ],
+  [
+    "Chọn một điểm trên bản đồ",
+    "Select a point on the map",
+    "Einen Punkt auf der Karte auswählen"
+  ],
+  [
+    "giây",
+    "seconds",
+    "Sekunden"
+  ],
+  [
+    "Ngoại suy vận tốc không đổi",
+    "Constant-velocity extrapolation",
+    "Extrapolation bei konstanter Geschwindigkeit"
+  ],
+  [
+    "Kiểm tra khoảng cách dự kiến",
+    "Predicted proximity check",
+    "Prüfung des prognostizierten Abstands"
+  ],
+  [
+    "Bản đồ đối tượng",
+    "Object map",
+    "Objektkarte"
+  ],
+  [
+    "● Ô tô / xe cơ giới",
+    "● Cars / motor vehicles",
+    "● Autos / Kraftfahrzeuge"
+  ],
+  [
+    "▲ Xe đạp",
+    "▲ Cyclists",
+    "▲ Radfahrende"
+  ],
+  [
+    "● Người đi bộ",
+    "● Pedestrians",
+    "● Fußgänger"
+  ],
+  [
+    "Vệt 3 s",
+    "3 s trails",
+    "3-s-Spuren"
+  ],
+  [
+    "Dự đoán",
+    "Prediction",
+    "Prognose"
+  ],
+  [
+    "Đặt lại góc nhìn",
+    "Reset view",
+    "Ansicht zurücksetzen"
+  ],
+  [
+    "Bản đồ tọa độ đối tượng giao thông. Có thể chọn đối tượng bằng danh sách bên dưới.",
+    "Traffic object coordinate map. Objects can also be selected in the list below.",
+    "Koordinatenkarte der Verkehrsobjekte. Objekte lassen sich auch in der Liste unten auswählen."
+  ],
+  [
+    "HỆ TỌA ĐỘ CẢM BIẾN",
+    "SENSOR COORDINATES",
+    "SENSORKOORDINATEN"
+  ],
+  [
+    "Nhấp vào một đối tượng để phân tích",
+    "Click an object to analyze it",
+    "Für die Analyse auf ein Objekt klicken"
+  ],
+  [
+    "Phát dữ liệu",
+    "Play recording",
+    "Aufzeichnung abspielen"
+  ],
+  [
+    "Tạm dừng",
+    "Pause",
+    "Pausieren"
+  ],
+  [
+    "Tốc độ phát",
+    "Playback speed",
+    "Wiedergabegeschwindigkeit"
+  ],
+  [
+    "Khoảng dự đoán",
+    "Prediction horizon",
+    "Prognosezeitraum"
+  ],
+  [
+    "{n} giây",
+    "{n} seconds",
+    "{n} Sekunden"
+  ],
+  [
+    "Chọn khung hình",
+    "Select frame",
+    "Frame auswählen"
+  ],
+  [
+    "Khung hình —",
+    "Frame —",
+    "Frame —"
+  ],
+  [
+    "Khung hình {n} / {total}",
+    "Frame {n} / {total}",
+    "Frame {n} / {total}"
+  ],
+  [
+    "Đường liền: đã quan sát · Đường đứt: dự đoán. Đơn vị m và m/s đang được giả định từ dữ liệu nguồn.",
+    "Solid: observed · Dashed: predicted. Units m and m/s are assumed for the source data.",
+    "Durchgezogen: beobachtet · Gestrichelt: prognostiziert. Für die Quelldaten werden m und m/s angenommen."
+  ],
+  [
+    "Cục bộ",
+    "Local",
+    "Lokal"
+  ],
+  [
+    "Ngữ cảnh: khung hình đang xem",
+    "Context: current frame",
+    "Kontext: aktueller Frame"
+  ],
+  [
+    "Chỉ khi bật, câu hỏi và dữ liệu cảnh hiện tại được gửi tới OpenAI",
+    "Only when enabled, questions and current scene data are sent to OpenAI",
+    "Nur bei Aktivierung werden Fragen und aktuelle Szenendaten an OpenAI gesendet"
+  ],
+  [
+    "Tôi có thể giúp bạn đọc cảnh giao thông này.",
+    "I can help you understand this traffic scene.",
+    "Ich helfe Ihnen, diese Verkehrsszene zu verstehen."
+  ],
+  [
+    "Chọn một ID, rồi hỏi về loại đối tượng, vận tốc, làn đường hoặc vị trí trong 3–5 giây tới.",
+    "Select an ID, then ask about its type, speed, lane or position in the next 3–5 seconds.",
+    "Wählen Sie eine ID und fragen Sie nach Typ, Geschwindigkeit, Fahrspur oder Position in den nächsten 3–5 Sekunden."
+  ],
+  [
+    "Chế độ cục bộ hỗ trợ các câu hỏi theo mẫu. Bật AI API khi đã cấu hình để hỏi linh hoạt hơn.",
+    "Local mode supports predefined question types. Enable AI API after configuration for more flexible questions.",
+    "Der lokale Modus unterstützt vordefinierte Fragetypen. Aktivieren Sie nach der Konfiguration die KI-API für flexiblere Fragen."
+  ],
+  [
+    "Đối tượng này là gì?",
+    "What is this object?",
+    "Was ist das für ein Objekt?"
+  ],
+  [
+    "{n} giây tới sẽ đi đâu?",
+    "Where will it be in {n} seconds?",
+    "Wo ist es in {n} Sekunden?"
+  ],
+  [
+    "Có đi đúng làn không?",
+    "Is it in the correct lane?",
+    "Fährt es auf der richtigen Spur?"
+  ],
+  [
+    "Tổng quan cảnh",
+    "Scene overview",
+    "Szenenübersicht"
+  ],
+  [
+    "Đối tượng này là car, bike hay pedestrian?",
+    "Is this object a car, cyclist or pedestrian?",
+    "Ist dieses Objekt ein Auto, Radfahrer oder Fußgänger?"
+  ],
+  [
+    "Đối tượng này đi đâu trong {n} giây?",
+    "Where will this object be in {n} seconds?",
+    "Wo wird dieses Objekt in {n} Sekunden sein?"
+  ],
+  [
+    "Đối tượng này có đi đúng làn không?",
+    "Is this object traveling in the correct lane?",
+    "Fährt dieses Objekt auf der richtigen Fahrspur?"
+  ],
+  [
+    "Tổng quan giao thông hiện tại",
+    "Overview of the current traffic scene",
+    "Übersicht der aktuellen Verkehrsszene"
+  ],
+  [
+    "Câu hỏi",
+    "Question",
+    "Frage"
+  ],
+  [
+    "Hỏi về một ID hoặc cảnh đang xem…",
+    "Ask about an ID or the current scene…",
+    "Nach einer ID oder der aktuellen Szene fragen…"
+  ],
+  [
+    "Gửi câu hỏi",
+    "Send question",
+    "Frage senden"
+  ],
+  [
+    "Phân tích tại máy · không cần khóa API",
+    "Local analysis · no API key needed",
+    "Lokale Analyse · kein API-Schlüssel erforderlich"
+  ],
+  [
+    "Danh sách đối tượng",
+    "Object list",
+    "Objektliste"
+  ],
+  [
+    "Tìm ID trong toàn bộ bản ghi…",
+    "Search IDs in the entire recording…",
+    "IDs in der gesamten Aufzeichnung suchen…"
+  ],
+  [
+    "Tìm ID",
+    "Search ID",
+    "ID suchen"
+  ],
+  [
+    "Lọc loại",
+    "Filter by type",
+    "Nach Typ filtern"
+  ],
+  [
+    "Tất cả loại",
+    "All types",
+    "Alle Typen"
+  ],
+  [
+    "ID / LOẠI",
+    "ID / TYPE",
+    "ID / TYP"
+  ],
+  [
+    "VẬN TỐC",
+    "SPEED",
+    "GESCHWINDIGKEIT"
+  ],
+  [
+    "LÀN ĐƯỜNG",
+    "LANE",
+    "FAHRSPUR"
+  ],
+  [
+    "Phân tích đối tượng",
+    "Object analysis",
+    "Objektanalyse"
+  ],
+  [
+    "⚒ Thiết lập làn",
+    "⚒ Configure lanes",
+    "⚒ Fahrspuren einrichten"
+  ],
+  [
+    "Chọn một đối tượng để xem phân tích.",
+    "Select an object to view its analysis.",
+    "Wählen Sie ein Objekt für die Analyse aus."
+  ],
+  [
+    "K305 · Đang đọc dữ liệu…",
+    "K305 · Reading data…",
+    "K305 · Daten werden gelesen…"
+  ],
+  [
+    "Research prototype · Dự đoán chưa được hiệu chuẩn",
+    "Research prototype · Predictions are not calibrated",
+    "Forschungsprototyp · Prognosen sind nicht kalibriert"
+  ],
+  [
+    "Khai báo làn trong hệ tọa độ cảm biến",
+    "Define lanes in sensor coordinates",
+    "Fahrspuren in Sensorkoordinaten definieren"
+  ],
+  [
+    "Đóng thiết lập làn",
+    "Close lane configuration",
+    "Fahrspurkonfiguration schließen"
+  ],
+  [
+    "Nhấn “Vẽ làn”, sau đó nhấp ít nhất 3 đỉnh trên bản đồ theo thứ tự quanh biên. Hướng được tính ngược chiều kim đồng hồ từ trục +X (0°); +Y là 90°.",
+    "Click “Draw lane”, then select at least 3 vertices around the boundary in order. Heading is counterclockwise from +X (0°); +Y is 90°.",
+    "Klicken Sie auf „Fahrspur zeichnen“ und wählen Sie mindestens 3 Eckpunkte der Reihe nach entlang des Randes. Die Richtung wird gegen den Uhrzeigersinn ab +X (0°) gemessen; +Y entspricht 90°."
+  ],
+  [
+    "Tên làn",
+    "Lane name",
+    "Fahrspurname"
+  ],
+  [
+    "Hướng lưu thông (độ)",
+    "Travel direction (degrees)",
+    "Fahrtrichtung (Grad)"
+  ],
+  [
+    "Loại được phép",
+    "Allowed types",
+    "Zulässige Typen"
+  ],
+  [
+    "Ô tô / van / tải / buýt / xe máy",
+    "Car / van / truck / bus / motorcycle",
+    "Auto / Transporter / Lkw / Bus / Motorrad"
+  ],
+  [
+    "Vẽ làn",
+    "Draw lane",
+    "Fahrspur zeichnen"
+  ],
+  [
+    "Bỏ đỉnh cuối",
+    "Undo last vertex",
+    "Letzten Eckpunkt entfernen"
+  ],
+  [
+    "Thêm đa giác",
+    "Add polygon",
+    "Polygon hinzufügen"
+  ],
+  [
+    "Hủy vẽ",
+    "Cancel drawing",
+    "Zeichnen abbrechen"
+  ],
+  [
+    "{n} đỉnh",
+    "{n} vertices",
+    "{n} Eckpunkte"
+  ],
+  [
+    "Tôi đã kiểm tra ranh giới, chiều đi, loại được phép và sự khớp với hệ tọa độ cảm biến.",
+    "I have verified the boundaries, travel direction, allowed types and alignment with sensor coordinates.",
+    "Ich habe Grenzen, Fahrtrichtung, zulässige Typen und die Übereinstimmung mit den Sensorkoordinaten geprüft."
+  ],
+  [
+    "Lưu cấu hình làn",
+    "Save lane configuration",
+    "Fahrspurkonfiguration speichern"
+  ],
+  [
+    "Tải JSON",
+    "Download JSON",
+    "JSON herunterladen"
+  ],
+  [
+    "Nhập JSON",
+    "Import JSON",
+    "JSON importieren"
+  ],
+  [
+    "Chỉ kết luận theo cấu hình đã xác nhận. Kiểm tra tâm và hướng chuyển động; chưa xét toàn bộ thân xe, biển báo, đèn tín hiệu hay luật giao thông.",
+    "Assessment uses verified configuration only. Checks the center and motion direction; not the full vehicle body, signs, signals or traffic rules.",
+    "Bewertung nur anhand bestätigter Konfiguration. Geprüft werden Mittelpunkt und Bewegungsrichtung, nicht die gesamte Fahrzeugkontur, Beschilderung, Ampeln oder Verkehrsregeln."
+  ],
+  [
+    "Bắt đầu với Traffic Copilot",
+    "Getting started with Traffic Copilot",
+    "Erste Schritte mit Traffic Copilot"
+  ],
+  [
+    "1. Chọn ID trên bản đồ hoặc trong danh sách. Ô tìm kiếm tìm trong cả bản ghi và cho phép chuyển đến lần quan sát đầu tiên.",
+    "1. Select an ID on the map or in the list. Search covers the entire recording and lets you jump to the first observation.",
+    "1. Wählen Sie eine ID auf der Karte oder in der Liste. Die Suche umfasst die gesamte Aufzeichnung und ermöglicht den Sprung zur ersten Beobachtung."
+  ],
+  [
+    "2. Kéo thanh thời gian hoặc nhấn ▶ để phát lại. Gửi câu hỏi sẽ tạm dừng để giữ nguyên ngữ cảnh.",
+    "2. Drag the timeline or press ▶ to replay. Sending a question pauses playback to preserve context.",
+    "2. Ziehen Sie den Zeitregler oder drücken Sie ▶. Beim Senden einer Frage wird die Wiedergabe pausiert, damit der Kontext erhalten bleibt."
+  ],
+  [
+    "3. Hỏi “ID 55177 là gì?”, “Tốc độ của xe này?”, “ID 54042 đi đâu trong 3 giây?” hoặc “ID 55177 và 54042 có nguy cơ va chạm không?”.",
+    "3. Ask “What is ID 55177?”, “How fast is this vehicle?”, “Where will ID 54042 be in 3 seconds?” or “Is there a collision risk between IDs 55177 and 54042?”.",
+    "3. Fragen Sie „Was ist ID 55177?“, „Wie schnell ist dieses Fahrzeug?“, „Wo ist ID 54042 in 3 Sekunden?“ oder „Besteht Kollisionsgefahr zwischen ID 55177 und 54042?“."
+  ],
+  [
+    "4. Thiết lập làn bằng công cụ vẽ hoặc nhập JSON. Chỉ xác nhận khi đã đối chiếu với bản đồ thực.",
+    "4. Configure lanes by drawing or importing JSON. Confirm only after checking against a real map.",
+    "4. Richten Sie Fahrspuren durch Zeichnen oder JSON-Import ein. Bestätigen Sie erst nach dem Abgleich mit einer realen Karte."
+  ],
+  [
+    "AI API: đặt OPENAI_API_KEY và OPENAI_MODEL ở máy chủ, rồi khởi động lại. Khi bật công tắc AI API, câu hỏi và dữ liệu cảnh hiện tại sẽ được gửi tới OpenAI. Khóa không được gửi vào trình duyệt.",
+    "AI API: set OPENAI_API_KEY and OPENAI_MODEL on the server, then restart it. Enabling AI API sends questions and current scene data to OpenAI. The key is never sent to the browser.",
+    "KI-API: Setzen Sie OPENAI_API_KEY und OPENAI_MODEL auf dem Server und starten Sie ihn neu. Bei aktivierter KI-API werden Fragen und aktuelle Szenendaten an OpenAI gesendet. Der Schlüssel wird nicht an den Browser übertragen."
+  ],
+  [
+    "Dự đoán sử dụng vận tốc không đổi. Cảnh báo là kiểm tra khoảng cách hình học, không phải xác nhận va chạm hay an toàn.",
+    "Predictions assume constant velocity. Alerts are geometric proximity checks, not confirmation of collision or safety.",
+    "Prognosen setzen konstante Geschwindigkeit voraus. Warnungen beruhen auf geometrischen Abständen und bestätigen weder eine Kollision noch Sicherheit."
+  ],
+  [
+    "Đã hiểu",
+    "Got it",
+    "Verstanden"
+  ],
+  [
+    "Ô tô",
+    "Car",
+    "Auto"
+  ],
+  [
+    "Xe van",
+    "Van",
+    "Transporter"
+  ],
+  [
+    "Xe tải",
+    "Truck",
+    "Lkw"
+  ],
+  [
+    "Xe buýt",
+    "Bus",
+    "Bus"
+  ],
+  [
+    "Xe máy",
+    "Motorcycle",
+    "Motorrad"
+  ],
+  [
+    "Xe đạp",
+    "Cyclist",
+    "Radfahrer"
+  ],
+  [
+    "Người đi bộ",
+    "Pedestrian",
+    "Fußgänger"
+  ],
+  [
+    "ô tô",
+    "car",
+    "Auto"
+  ],
+  [
+    "xe van",
+    "van",
+    "Transporter"
+  ],
+  [
+    "xe tải",
+    "truck",
+    "Lkw"
+  ],
+  [
+    "xe buýt",
+    "bus",
+    "Bus"
+  ],
+  [
+    "xe máy",
+    "motorcycle",
+    "Motorrad"
+  ],
+  [
+    "người đi xe đạp",
+    "cyclist",
+    "Radfahrer"
+  ],
+  [
+    "người đi bộ",
+    "pedestrian",
+    "Fußgänger"
+  ],
+  [
+    "Không có mặt tại thời điểm này",
+    "Not present at this time",
+    "Zu diesem Zeitpunkt nicht vorhanden"
+  ],
+  [
+    "{n} trong cảnh",
+    "{n} in scene",
+    "{n} in der Szene"
+  ],
+  [
+    "Chưa xác định",
+    "Unknown",
+    "Unbekannt"
+  ],
+  [
+    "Chọn ID {id}",
+    "Select ID {id}",
+    "ID {id} auswählen"
+  ],
+  [
+    "Đi tới ID {id}",
+    "Jump to ID {id}",
+    "Zu ID {id} springen"
+  ],
+  [
+    "{type} · ngoài cảnh",
+    "{type} · outside scene",
+    "{type} · außerhalb der Szene"
+  ],
+  [
+    "Đi tới quan sát đầu tiên",
+    "Jump to first observation",
+    "Zur ersten Beobachtung springen"
+  ],
+  [
+    "Không tìm thấy đối tượng phù hợp.",
+    "No matching objects found.",
+    "Keine passenden Objekte gefunden."
+  ],
+  [
+    "ID đang chọn không có mặt trong khung hình này. Chọn đối tượng khác hoặc tìm ID để chuyển đến lần quan sát đầu tiên.",
+    "The selected ID is absent from this frame. Select another object or search for the ID to jump to its first observation.",
+    "Die ausgewählte ID ist in diesem Frame nicht vorhanden. Wählen Sie ein anderes Objekt oder suchen Sie die ID, um zur ersten Beobachtung zu springen."
+  ],
+  [
+    "Chưa ổn định",
+    "Not stable yet",
+    "Noch nicht stabil"
+  ],
+  [
+    "VẬN TỐC HIỆN TẠI*",
+    "CURRENT SPEED*",
+    "AKTUELLE GESCHWINDIGKEIT*"
+  ],
+  [
+    "HƯỚNG / TRỤC +X",
+    "HEADING / +X AXIS",
+    "RICHTUNG / +X-ACHSE"
+  ],
+  [
+    "VỊ TRÍ X, Y*",
+    "POSITION X, Y*",
+    "POSITION X, Y*"
+  ],
+  [
+    "SAU {n} GIÂY*",
+    "AFTER {n} SECONDS*",
+    "NACH {n} SEKUNDEN*"
+  ],
+  [
+    "* Giả định đơn vị m, m/s. Dự đoán giữ nguyên vận tốc; chưa xét đèn tín hiệu hoặc ý định rẽ.",
+    "* Assumed units: m, m/s. Predictions keep velocity constant; traffic lights and turning intentions are not modeled.",
+    "* Angenommene Einheiten: m, m/s. Konstante Geschwindigkeit; Ampeln und Abbiegeabsichten werden nicht modelliert."
+  ],
+  [
+    "△ ID {ids} · khoảng cách tâm {distance} m sau {t} s",
+    "△ ID {ids} · center distance {distance} m after {t} s",
+    "△ ID {ids} · Mittelpunktabstand {distance} m nach {t} s"
+  ],
+  [
+    "Cảnh báo khoảng cách theo vòng tròn bao thân xe; có thể cảnh báo dư.",
+    "Proximity warning using vehicle bounding circles; false alarms are possible.",
+    "Abstandswarnung anhand umschließender Kreise; Fehlalarme sind möglich."
+  ],
+  [
+    "Đang đọc dữ liệu tại thời điểm đã chọn…",
+    "Reading data at the selected time…",
+    "Daten zum ausgewählten Zeitpunkt werden gelesen…"
+  ],
+  [
+    "{time} · khung {n} · {mode}",
+    "{time} · frame {n} · {mode}",
+    "{time} · Frame {n} · {mode}"
+  ],
+  [
+    "phân tích cục bộ",
+    "local analysis",
+    "lokale Analyse"
+  ],
+  [
+    "Câu hỏi và dữ liệu cảnh được gửi tới OpenAI",
+    "Questions and scene data are sent to OpenAI",
+    "Fragen und Szenendaten werden an OpenAI gesendet"
+  ],
+  [
+    "Đã xuất JSON chứa dữ liệu cảnh, dự đoán và hội thoại.",
+    "Exported scene data, predictions and conversation as JSON.",
+    "Szenendaten, Prognosen und Dialog als JSON exportiert."
+  ],
+  [
+    "{name} · {n} đỉnh · {heading}° · {types}",
+    "{name} · {n} vertices · {heading}° · {types}",
+    "{name} · {n} Eckpunkte · {heading}° · {types}"
+  ],
+  [
+    "Xóa",
+    "Remove",
+    "Entfernen"
+  ],
+  [
+    "Chưa có làn nào được khai báo.",
+    "No lanes have been defined.",
+    "Es wurden noch keine Fahrspuren definiert."
+  ],
+  [
+    "VẼ LÀN · Nhấp các đỉnh quanh biên; sau đó chọn “Thêm đa giác”",
+    "DRAW LANE · Click vertices around the boundary, then select “Add polygon”",
+    "FAHRSPUR ZEICHNEN · Eckpunkte entlang des Randes anklicken, dann „Polygon hinzufügen“ wählen"
+  ],
+  [
+    "Hãy chọn ít nhất 3 đỉnh trên bản đồ.",
+    "Select at least 3 vertices on the map.",
+    "Wählen Sie mindestens 3 Eckpunkte auf der Karte."
+  ],
+  [
+    "Kiểm tra tên làn không trùng và góc từ -180 đến 180.",
+    "Use a unique lane name and an angle from -180 to 180.",
+    "Verwenden Sie einen eindeutigen Fahrspurnamen und einen Winkel von -180 bis 180."
+  ],
+  [
+    "Đã thêm vào bản nháp. Kiểm tra cấu hình rồi nhấn Lưu.",
+    "Added to draft. Check the configuration, then save.",
+    "Zum Entwurf hinzugefügt. Prüfen Sie die Konfiguration und speichern Sie sie."
+  ],
+  [
+    "Đã lưu cấu hình làn trên máy.",
+    "Lane configuration saved locally.",
+    "Fahrspurkonfiguration lokal gespeichert."
+  ],
+  [
+    "File làn quá lớn.",
+    "Lane file is too large.",
+    "Die Fahrspurdatei ist zu groß."
+  ],
+  [
+    "File không đúng cấu trúc làn.",
+    "Invalid lane file structure.",
+    "Ungültige Struktur der Fahrspurdatei."
+  ],
+  [
+    "Đã nhập bản nháp. Kiểm tra và lưu để áp dụng.",
+    "Draft imported. Review and save to apply.",
+    "Entwurf importiert. Zum Anwenden prüfen und speichern."
+  ],
+  [
+    "Chưa cấu hình OPENAI_API_KEY và OPENAI_MODEL; xem hướng dẫn (?)",
+    "OPENAI_API_KEY and OPENAI_MODEL are not configured; see Help (?)",
+    "OPENAI_API_KEY und OPENAI_MODEL sind nicht konfiguriert; siehe Hilfe (?)"
+  ],
+  [
+    "Không thể tải dữ liệu",
+    "Unable to load data",
+    "Daten konnten nicht geladen werden"
+  ],
+  [
+    "Không thể đọc dữ liệu",
+    "Unable to read data",
+    "Daten konnten nicht gelesen werden"
+  ],
+  [
+    "K305 · {frames} khung hình · {tracks} ID · {source}",
+    "K305 · {frames} frames · {tracks} IDs · {source}",
+    "K305 · {frames} Frames · {tracks} IDs · {source}"
+  ],
+  [
+    "Giả định tọa độ là mét, vận tốc là m/s; file nguồn chưa khai báo đơn vị.",
+    "Coordinates are assumed to be in meters and velocity in m/s; units are not declared in the source file.",
+    "Koordinaten werden in Metern und Geschwindigkeiten in m/s angenommen; die Quelldatei enthält keine Einheitenangabe."
+  ],
+  [
+    "Bám tuyến vẽ nếu khớp vị trí và hướng; nếu không thì ngoại suy vận tốc không đổi. Chưa mô hình hóa đèn tín hiệu, ý định người lái hay tương tác; không phải xác suất đã hiệu chuẩn.",
+    "Forecast follows a drawn route when position and heading match; otherwise it extrapolates at constant velocity. Traffic lights, driver intent and interactions are not modeled; this is not a calibrated probability.",
+    "Die Prognose folgt einer gezeichneten Route, wenn Position und Richtung passen; sonst wird mit konstanter Geschwindigkeit extrapoliert. Ampeln, Fahrerabsicht und Interaktionen werden nicht modelliert; dies ist keine kalibrierte Wahrscheinlichkeit."
+  ],
+  [
+    "Chưa đủ dữ liệu: cần bản đồ làn đã xác nhận cùng hệ tọa độ.",
+    "Insufficient data: a verified lane map in the same coordinate system is required.",
+    "Unzureichende Daten: Eine bestätigte Fahrspurkarte im selben Koordinatensystem ist erforderlich."
+  ],
+  [
+    "Ngoài vùng làn đã khai báo; chưa thể kết luận đi sai làn.",
+    "Outside the mapped lanes; this does not establish a lane violation.",
+    "Außerhalb der erfassten Fahrspuren; daraus lässt sich kein Fahrspurverstoß ableiten."
+  ],
+  [
+    "Vùng làn chồng lấn; cần kiểm tra bản đồ.",
+    "Overlapping lanes; review the map.",
+    "Überlappende Fahrspuren; bitte die Karte prüfen."
+  ],
+  [
+    "Loại đối tượng không được phép trong làn {lane} theo cấu hình.",
+    "This object type is not allowed in lane {lane} according to the configuration.",
+    "Dieser Objekttyp ist laut Konfiguration auf Fahrspur {lane} nicht zulässig."
+  ],
+  [
+    "Trong làn {lane}; vận tốc thấp, chưa đủ cơ sở đánh giá chiều đi.",
+    "In lane {lane}; speed is too low to assess travel direction.",
+    "Auf Fahrspur {lane}; die Geschwindigkeit ist für eine Richtungsbewertung zu niedrig."
+  ],
+  [
+    "Có dấu hiệu ngược chiều làn {lane} (lệch {angle}°).",
+    "Possible wrong-way travel in lane {lane} (deviation {angle}°).",
+    "Mögliche Fahrt entgegen der Fahrtrichtung auf Spur {lane} (Abweichung {angle}°)."
+  ],
+  [
+    "Hướng di chuyển lệch {angle}° so với làn {lane}; có thể đang rẽ hoặc chuyển làn.",
+    "Travel direction differs by {angle}° from lane {lane}; the object may be turning or changing lanes.",
+    "Die Bewegungsrichtung weicht um {angle}° von Spur {lane} ab; das Objekt könnte abbiegen oder die Spur wechseln."
+  ],
+  [
+    "Tâm đối tượng nằm trong làn {lane}, hướng đi phù hợp cấu hình. Chưa xác nhận toàn bộ thân xe hay quy tắc giao thông.",
+    "The object center is in lane {lane} and its direction matches the configuration. Full vehicle containment and traffic-rule compliance are not verified.",
+    "Der Objektmittelpunkt liegt auf Spur {lane}; die Richtung entspricht der Konfiguration. Vollständige Fahrzeugkontur und Verkehrsregeln sind nicht geprüft."
+  ],
+  [
+    "Khoảng cách tâm gần nhất theo vận tốc không đổi; vòng tròn bao thân xe + 0,5 m. Có thể cảnh báo dư; không khẳng định va chạm.",
+    "Closest center distance at constant velocity; vehicle bounding circles + 0.5 m. False alarms are possible; this does not confirm a collision.",
+    "Kleinster Mittelpunktabstand bei konstanter Geschwindigkeit; umschließende Fahrzeugkreise + 0,5 m. Fehlalarme sind möglich; dies bestätigt keine Kollision."
+  ],
+  [
+    "Khoảng cách tâm trên quỹ đạo dự đoán từng 0,5 s; bám tuyến nếu khớp. Vòng tròn bao thân xe + 0,5 m; không khẳng định va chạm.",
+    "Center distance along predicted paths sampled every 0.5 s; follows a matched route when available. Vehicle bounding circles + 0.5 m; does not confirm a collision.",
+    "Mittelpunktabstand entlang der alle 0,5 s abgetasteten Prognosepfade; folgt einer passenden Route, falls vorhanden. Fahrzeugumrisskreise + 0,5 m; bestätigt keine Kollision."
+  ],
+  [
+    "ID {id} chưa được quan sát tại hoặc trước thời điểm đang chọn.",
+    "ID {id} has not been observed at or before the selected time.",
+    "ID {id} wurde bis zum ausgewählten Zeitpunkt noch nicht beobachtet."
+  ],
+  [
+    "Khung hình {n} • {timestamp}",
+    "Frame {n} • {timestamp}",
+    "Frame {n} • {timestamp}"
+  ],
+  [
+    "Có {n} đối tượng: {types}",
+    "There are {n} objects: {types}",
+    "Es gibt {n} Objekte: {types}"
+  ],
+  [
+    "Có {n} cặp cần xem xét về khoảng cách trong {h} giây theo phép ngoại suy.",
+    "There are {n} pairs requiring proximity review within {h} seconds under extrapolation.",
+    "Bei der Extrapolation müssen {n} Paare innerhalb von {h} Sekunden auf ihren Abstand geprüft werden."
+  ],
+  [
+    "ID {a} / {b}: khoảng cách tâm nhỏ nhất {d} m sau {t} s.",
+    "ID {a} / {b}: minimum center distance {d} m after {t} s.",
+    "ID {a} / {b}: kleinster Mittelpunktabstand {d} m nach {t} s."
+  ],
+  [
+    "ID {id}: {label} ({class}). Nhãn lấy từ class_name của dữ liệu, không phải nhận diện lại ảnh.",
+    "ID {id}: {label} ({class}). The label comes from the dataset's class_name, not a new image classification.",
+    "ID {id}: {label} ({class}). Die Klasse stammt aus class_name im Datensatz, nicht aus einer erneuten Bilderkennung."
+  ],
+  [
+    "Nhãn đã thay đổi qua các quan sát: {classes}",
+    "Labels varied across observations: {classes}",
+    "Die Klassen haben sich zwischen Beobachtungen geändert: {classes}"
+  ],
+  [
+    "Không có mặt ở khung hình đang chọn. Quan sát gần nhất: {timestamp}. Không dự đoán từ quan sát cũ.",
+    "Absent from the selected frame. Last observation: {timestamp}. No prediction is made from stale observations.",
+    "Im ausgewählten Frame nicht vorhanden. Letzte Beobachtung: {timestamp}. Aus veralteten Beobachtungen wird keine Prognose erstellt."
+  ],
+  [
+    "Nếu giữ nguyên vận tốc, sau {h} giây vị trí dự kiến là ({x}, {y}) m; đi thêm {d} m.",
+    "At constant velocity, the predicted position after {h} seconds is ({x}, {y}) m; additional distance {d} m.",
+    "Bei konstanter Geschwindigkeit liegt die prognostizierte Position nach {h} Sekunden bei ({x}, {y}) m; zusätzliche Strecke {d} m."
+  ],
+  [
+    "Quan sát từ {first} đến {last} (tính đến khung hình đang chọn), khoảng {duration} s; {n} quan sát. Không chứng minh theo dõi liên tục.",
+    "Observed from {first} to {last} (up to the selected frame), spanning about {duration} s; {n} observations. This does not prove continuous tracking.",
+    "Beobachtet von {first} bis {last} (bis zum ausgewählten Frame), etwa {duration} s; {n} Beobachtungen. Dies belegt keine lückenlose Verfolgung."
+  ],
+  [
+    "Vị trí ({x}, {y}) m; vận tốc {speed} m/s ≈ {kmh} km/h.",
+    "Position ({x}, {y}) m; speed {speed} m/s ≈ {kmh} km/h.",
+    "Position ({x}, {y}) m; Geschwindigkeit {speed} m/s ≈ {kmh} km/h."
+  ],
+  [
+    "ID {a} / {b}: khoảng cách tâm nhỏ nhất {d} m sau {t} s trong cửa sổ {h} s.",
+    "ID {a} / {b}: minimum center distance {d} m after {t} s within a {h} s window.",
+    "ID {a} / {b}: kleinster Mittelpunktabstand {d} m nach {t} s innerhalb eines Zeitfensters von {h} s."
+  ],
+  [
+    "Có cảnh báo khoảng cách.",
+    "A proximity warning is triggered.",
+    "Eine Abstandswarnung wird ausgelöst."
+  ],
+  [
+    "Không chạm ngưỡng cảnh báo trong mô hình này.",
+    "The warning threshold is not reached in this model.",
+    "Die Warnschwelle wird in diesem Modell nicht erreicht."
+  ],
+  [
+    "Có {n} cặp cảnh báo liên quan đến ID này trong {h} s. Đây là kiểm tra khoảng cách, không phải kết luận va chạm.",
+    "There are {n} warning pairs involving this ID within {h} s. This is a proximity check, not a collision conclusion.",
+    "Innerhalb von {h} s gibt es {n} Warnpaare mit dieser ID. Dies ist eine Abstandsprüfung, keine Feststellung einer Kollision."
+  ],
+  [
+    "ID {a} / {b}: {d} m sau {t} s.",
+    "ID {a} / {b}: {d} m after {t} s.",
+    "ID {a} / {b}: {d} m nach {t} s."
+  ],
+  [
+    "Hãy chọn một đối tượng hoặc nhập ID. Ví dụ: “ID 55177 là xe gì?”, “ID 54042 đi đâu trong 5 giây?”, “Tổng quan giao thông”.",
+    "Select an object or enter an ID. Examples: “What is ID 55177?”, “Where will ID 54042 be in 5 seconds?”, “Traffic overview”.",
+    "Wählen Sie ein Objekt oder geben Sie eine ID ein. Beispiele: „Was ist ID 55177?“, „Wo ist ID 54042 in 5 Sekunden?“, „Verkehrsübersicht“."
+  ],
+  [
+    "Dữ liệu object list hiện tại không có trạng thái đèn tín hiệu hoặc biển số. Tôi chưa thể trả lời câu hỏi này từ dữ liệu đang có.",
+    "The current object list contains no traffic-light states or license plates. The available data cannot answer this question.",
+    "Die aktuelle Objektliste enthält keine Ampelzustände oder Kennzeichen. Diese Frage lässt sich mit den vorhandenen Daten nicht beantworten."
+  ],
+  [
+    "Kết nối AI chưa thành công. Dưới đây là kết quả phân tích cục bộ:",
+    "AI connection failed. Local analysis follows:",
+    "Die KI-Verbindung ist fehlgeschlagen. Es folgt die lokale Analyse:"
+  ],
+  [
+    "Chưa cấu hình OPENAI_API_KEY và OPENAI_MODEL trên máy chủ.",
+    "OPENAI_API_KEY and OPENAI_MODEL are not configured on the server.",
+    "OPENAI_API_KEY und OPENAI_MODEL sind auf dem Server nicht konfiguriert."
+  ],
+  [
+    "Khung hình ngoài phạm vi.",
+    "Frame out of range.",
+    "Frame außerhalb des gültigen Bereichs."
+  ],
+  [
+    "Bản hiện tại hỗ trợ dự đoán từ 3 đến 5 giây.",
+    "This version supports prediction horizons from 3 to 5 seconds.",
+    "Diese Version unterstützt Prognosen von 3 bis 5 Sekunden."
+  ],
+  [
+    "Bản hiện tại hỗ trợ dự đoán 3, 4 hoặc 5 giây.",
+    "This version supports prediction horizons of 3, 4 or 5 seconds.",
+    "Diese Version unterstützt Prognosen für 3, 4 oder 5 Sekunden."
+  ],
+  [
+    "Vui lòng hỏi tối đa 6 ID mỗi lần.",
+    "Ask about no more than 6 IDs at a time.",
+    "Fragen Sie nach höchstens 6 IDs gleichzeitig."
+  ],
+  [
+    "Cần một danh sách lanes, tối đa 100 làn.",
+    "A lanes list with at most 100 lanes is required.",
+    "Eine lanes-Liste mit höchstens 100 Fahrspuren ist erforderlich."
+  ],
+  [
+    "Tên làn phải khác nhau, dài 1–80 ký tự.",
+    "Lane names must be unique and contain 1–80 characters.",
+    "Fahrspurnamen müssen eindeutig sein und 1–80 Zeichen enthalten."
+  ],
+  [
+    "Đa giác làn cần 3–100 đỉnh.",
+    "A lane polygon needs 3–100 vertices.",
+    "Ein Fahrspurpolygon benötigt 3–100 Eckpunkte."
+  ],
+  [
+    "Tọa độ đa giác không hợp lệ.",
+    "Invalid polygon coordinates.",
+    "Ungültige Polygonkoordinaten."
+  ],
+  [
+    "Đa giác phải có diện tích ít nhất 0,1 đơn vị vuông.",
+    "The polygon area must be at least 0.1 square units.",
+    "Die Polygonfläche muss mindestens 0,1 Quadrateinheiten betragen."
+  ],
+  [
+    "Đa giác tự cắt; hãy vẽ các đỉnh theo thứ tự quanh biên.",
+    "Self-intersecting polygon; draw vertices in order around the boundary.",
+    "Das Polygon überschneidet sich selbst; zeichnen Sie die Eckpunkte der Reihe nach entlang des Randes."
+  ],
+  [
+    "Hướng làn phải từ -180 đến 180 độ.",
+    "Lane heading must be between -180 and 180 degrees.",
+    "Die Fahrspurrichtung muss zwischen -180 und 180 Grad liegen."
+  ],
+  [
+    "Chọn ít nhất một loại đối tượng được phép.",
+    "Select at least one allowed object type.",
+    "Wählen Sie mindestens einen zulässigen Objekttyp."
+  ],
+  [
+    "Horizon phải là 3, 4 hoặc 5 giây.",
+    "The horizon must be 3, 4 or 5 seconds.",
+    "Der Zeitraum muss 3, 4 oder 5 Sekunden betragen."
+  ],
+  [
+    "Câu hỏi cần 1–2000 ký tự.",
+    "Questions must contain 1–2000 characters.",
+    "Fragen müssen 1–2000 Zeichen enthalten."
+  ],
+  [
+    "Không tìm thấy.",
+    "Not found.",
+    "Nicht gefunden."
+  ],
+  [
+    "Host không hợp lệ.",
+    "Invalid host.",
+    "Ungültiger Host."
+  ],
+  [
+    "Chỉ chấp nhận yêu cầu cùng nguồn.",
+    "Only same-origin requests are accepted.",
+    "Nur Anfragen derselben Herkunft werden akzeptiert."
+  ],
+  [
+    "Cần Content-Type application/json.",
+    "Content-Type application/json is required.",
+    "Content-Type application/json ist erforderlich."
+  ],
+  [
+    "Nội dung quá lớn hoặc rỗng.",
+    "The request body is too large or empty.",
+    "Der Anfrageinhalt ist zu groß oder leer."
+  ],
+  [
+    "Cần JSON object.",
+    "A JSON object is required.",
+    "Ein JSON-Objekt ist erforderlich."
+  ],
+  [
+    "RESEARCH WORKSPACE",
+    "RESEARCH WORKSPACE",
+    "FORSCHUNGSUMGEBUNG"
+  ],
+  [
+    "TRAFFIC INTELLIGENCE",
+    "TRAFFIC INTELLIGENCE",
+    "VERKEHRSANALYSE"
+  ],
+  [
+    "01 / SCENE EXPLORER",
+    "01 / SCENE EXPLORER",
+    "01 / SZENENANSICHT"
+  ],
+  [
+    "02 / ASK YOUR DATA",
+    "02 / ASK YOUR DATA",
+    "02 / FRAGEN ZU DEN DATEN"
+  ],
+  [
+    "03 / OBJECT TRACKS",
+    "03 / OBJECT TRACKS",
+    "03 / OBJEKTSPUREN"
+  ],
+  [
+    "04 / MOVEMENT ANALYSIS",
+    "04 / MOVEMENT ANALYSIS",
+    "04 / BEWEGUNGSANALYSE"
+  ],
+  [
+    "LANE CONFIGURATION",
+    "LANE CONFIGURATION",
+    "FAHRSPURKONFIGURATION"
+  ],
+  [
+    "Nền ảnh K305",
+    "K305 map background",
+    "K305-Kartenhintergrund"
+  ],
+  [
+    "Nét bạn vẽ",
+    "Your route sketch",
+    "Deine Routenskizze"
+  ],
+  [
+    "ẢNH K305 · CĂN CHỈNH XẤP XỈ",
+    "K305 IMAGE · APPROXIMATELY ALIGNED",
+    "K305-BILD · NÄHERUNGSWEISE AUSGERICHTET"
+  ],
+  [
+    "• X / Y CẢM BIẾN",
+    "• SENSOR X / Y",
+    "• SENSOR-X / Y"
+  ],
+  [
+    "Tuyến vẽ",
+    "Drawn routes",
+    "Gezeichnete Routen"
+  ],
+  [
+    "Bám tuyến nếu khớp; nếu không, đi thẳng",
+    "Follow a matching route; otherwise go straight",
+    "Passender Route folgen, sonst geradeaus"
+  ],
+  [
+    "✎ Vẽ tuyến",
+    "✎ Draw route",
+    "✎ Route zeichnen"
+  ],
+  [
+    "ROUTE FOLLOWING",
+    "ROUTE FOLLOWING",
+    "ROUTENFÜHRUNG"
+  ],
+  [
+    "Đã số hóa gần đúng 8 nét chính trong ảnh của bạn; hãy kiểm tra, xóa hoặc vẽ lại. Bấm “Vẽ tuyến”, rồi nhấp dọc đường theo đúng chiều xe chạy. Dự đoán 3–5 giây bám tuyến gần nhất phù hợp vị trí và hướng; replay lịch sử giữ nguyên tọa độ JSON.",
+    "I digitized the eight main strokes from your image approximately; review, delete or redraw them. Choose “Draw route”, then click along the road in the direction of travel. The 3–5 second forecast follows the closest route matching position and heading; recorded playback remains unchanged.",
+    "Ich habe die acht Hauptlinien aus deinem Bild näherungsweise digitalisiert; prüfe, lösche oder zeichne sie neu. Wähle „Route zeichnen“ und klicke dann in Fahrtrichtung entlang der Straße. Die 3–5-Sekunden-Prognose folgt der nächstgelegenen Route, die zu Position und Richtung passt; die aufgezeichnete Wiedergabe bleibt unverändert."
+  ],
+  [
+    "Vẽ tim tuyến xe chạy",
+    "Draw a vehicle route",
+    "Fahrzeugroute zeichnen"
+  ],
+  [
+    "Bấm “Vẽ tuyến”, rồi nhấp dọc đường bạn muốn xe đi theo, theo đúng chiều xe chạy. Thêm từ 2 điểm trở lên. Dự đoán 3–5 giây sẽ bám tuyến gần nhất phù hợp vị trí và hướng xe; phát lại lịch sử vẫn giữ nguyên tọa độ JSON.",
+    "Choose “Draw route”, then click along the path in the direction vehicles should travel. Add at least two points. The 3–5 second forecast follows the closest route that matches the vehicle’s position and heading; historical playback remains unchanged.",
+    "Wähle „Route zeichnen“ und klicke dann in Fahrtrichtung entlang des gewünschten Weges. Füge mindestens zwei Punkte hinzu. Die 3–5-Sekunden-Prognose folgt der nächstgelegenen Route, die zu Position und Fahrtrichtung passt; die historische Wiedergabe bleibt unverändert."
+  ],
+  [
+    "Tên tuyến",
+    "Route name",
+    "Routenname"
+  ],
+  [
+    "Tuyến 1",
+    "Route 1",
+    "Route 1"
+  ],
+  [
+    "Vẽ tuyến",
+    "Draw route",
+    "Route zeichnen"
+  ],
+  [
+    "Bỏ điểm cuối",
+    "Undo last point",
+    "Letzten Punkt entfernen"
+  ],
+  [
+    "Thêm tuyến",
+    "Add route",
+    "Route hinzufügen"
+  ],
+  [
+    "0 điểm",
+    "0 points",
+    "0 Punkte"
+  ],
+  [
+    "Lưu tuyến",
+    "Save routes",
+    "Routen speichern"
+  ],
+  [
+    "Tải JSON tuyến",
+    "Download routes JSON",
+    "Routen-JSON herunterladen"
+  ],
+  [
+    "Khớp tuyến là heuristic theo khoảng cách tối đa 4,5 m và chênh hướng tối đa 65°. Nếu không khớp, dự đoán giữ vận tốc thẳng. Cần căn chỉnh bản đồ trước khi tin vào kết quả.",
+    "Route matching is a heuristic: at most 4.5 m from the route and at most 65° heading difference. If no route matches, the forecast continues at constant velocity. Align the map before relying on results.",
+    "Der Routenabgleich ist eine Heuristik: höchstens 4,5 m Abstand zur Route und höchstens 65° Richtungsabweichung. Wenn keine Route passt, wird mit konstanter Geschwindigkeit weitergerechnet. Richte die Karte aus, bevor du dich auf Ergebnisse verlässt."
+  ],
+  [
+    "Chưa có tuyến nào. Vẽ theo chiều xe chạy trên ảnh K305.",
+    "No routes yet. Draw along the vehicle’s direction on the K305 image.",
+    "Noch keine Routen. Zeichne in Fahrtrichtung auf dem K305-Bild."
+  ],
+  [
+    "Dự đoán bám tuyến {id} · cách tim tuyến {distance} m · lệch hướng {heading_delta}°.",
+    "Forecast follows route {id} · {distance} m from its centerline · heading difference {heading_delta}°.",
+    "Prognose folgt Route {id} · {distance} m von der Mittellinie · Richtungsabweichung {heading_delta}°."
+  ],
+  [
+    "Theo tuyến vẽ {route}, sau {horizon} giây vị trí dự kiến là ({x}, {y}) m; khoảng cách hiện tại với tim tuyến {distance} m.",
+    "Following drawn route {route}, the predicted position after {horizon} seconds is ({x}, {y}) m; current distance to its centerline is {distance} m.",
+    "Entlang der gezeichneten Route {route} liegt die prognostizierte Position nach {horizon} Sekunden bei ({x}, {y}) m; aktueller Abstand zur Mittellinie: {distance} m."
+  ],
+  [
+    "Không khớp tuyến đã vẽ; đang ngoại suy theo vận tốc thẳng.",
+    "No drawn route matched; using a straight constant-velocity forecast.",
+    "Keine gezeichnete Route passt; Prognose mit geradliniger Bewegung bei konstanter Geschwindigkeit."
+  ],
+  [
+    "Chưa có tuyến vẽ; đang ngoại suy theo vận tốc thẳng.",
+    "No routes drawn; using a straight constant-velocity forecast.",
+    "Noch keine Routen gezeichnet; Prognose mit geradliniger Bewegung bei konstanter Geschwindigkeit."
+  ],
+  [
+    "Bấm dọc tim đường theo chiều xe chạy",
+    "Click along the road centerline in the direction of travel",
+    "Klicke in Fahrtrichtung entlang der Straßenmitte"
+  ],
+  [
+    "Hãy chọn ít nhất 2 điểm theo chiều di chuyển.",
+    "Add at least two points in the direction of travel.",
+    "Füge mindestens zwei Punkte in Fahrtrichtung hinzu."
+  ],
+  [
+    "Tên tuyến không được trống hoặc trùng.",
+    "Route names must be non-empty and unique.",
+    "Routennamen müssen eindeutig und dürfen nicht leer sein."
+  ],
+  [
+    "Đã thêm tuyến vào bản nháp; nhấn Lưu tuyến để áp dụng.",
+    "Route added to the draft. Choose Save routes to apply it.",
+    "Route zum Entwurf hinzugefügt. Wähle „Routen speichern“, um sie anzuwenden."
+  ],
+  [
+    "Đã lưu tuyến. Dự đoán sẽ bám tuyến khi xe khớp vị trí và hướng.",
+    "Routes saved. Forecasts will follow a route when the vehicle’s position and heading match.",
+    "Routen gespeichert. Prognosen folgen einer Route, wenn Position und Fahrtrichtung des Fahrzeugs passen."
+  ],
+  [
+    "Đang kết nối Google Maps…",
+    "Connecting to Google Maps…",
+    "Google Maps wird verbunden …"
+  ],
+  [
+    "Google Maps đang hoạt động · vị trí và hướng X/Y cần hiệu chỉnh.",
+    "Google Maps is active · calibrate the sensor origin and X/Y orientation.",
+    "Google Maps ist aktiv · Sensorursprung und X/Y-Ausrichtung müssen kalibriert werden."
+  ],
+  [
+    "Google Maps chưa được kết nối",
+    "Google Maps is not connected",
+    "Google Maps ist nicht verbunden"
+  ],
+  [
+    "Cần GOOGLE_MAPS_API_KEY trên máy chủ cục bộ. Bản đồ tọa độ vẫn hoạt động; không dùng ảnh chụp.",
+    "Set GOOGLE_MAPS_API_KEY on the local server. The coordinate view still works; no screenshot is used.",
+    "GOOGLE_MAPS_API_KEY auf dem lokalen Server einrichten. Die Koordinatenansicht bleibt verfügbar; es wird kein Screenshot verwendet."
+  ],
+  [
+    "Không tải được Google Maps. Kiểm tra khóa API và kết nối mạng.",
+    "Google Maps could not load. Check the API key and network connection.",
+    "Google Maps konnte nicht geladen werden. API-Schlüssel und Netzwerkverbindung prüfen."
+  ],
+  [
+    "Google Maps không tải được. Kiểm tra khóa API, billing và quyền Maps JavaScript API.",
+    "Google Maps failed to load. Check the API key, billing, and Maps JavaScript API access.",
+    "Google Maps konnte nicht geladen werden. API-Schlüssel, Abrechnung und Zugriff auf die Maps JavaScript API prüfen."
+  ],
+  [
+    "Không thể đọc cấu hình Google Maps.",
+    "Could not read Google Maps configuration.",
+    "Die Google-Maps-Konfiguration konnte nicht gelesen werden."
+  ],
+  [
+    "Nhấp vào tâm giao lộ trên bản đồ để đặt gốc X/Y.",
+    "Click the intersection center on the map to set the X/Y origin.",
+    "Klicke auf den Kreuzungsmittelpunkt, um den X/Y-Ursprung festzulegen."
+  ],
+  [
+    "Gốc cảm biến đã cập nhật; kiểm tra góc +X để căn đúng tuyến.",
+    "Sensor origin updated. Adjust the +X angle to align the drawn routes.",
+    "Sensorursprung aktualisiert. Passe den +X-Winkel an, damit die gezeichneten Routen ausgerichtet sind."
+  ],
+  [
+    "Mở K305 trên Google Maps ↗",
+    "Open K305 in Google Maps ↗",
+    "K305 in Google Maps öffnen ↗"
+  ],
+  [
+    "Đặt gốc X/Y",
+    "Set X/Y origin",
+    "X/Y-Ursprung setzen"
+  ],
+  [
+    "Góc trục +X so với hướng đông",
+    "+X axis angle relative to east",
+    "Winkel der +X-Achse relativ zu Osten"
+  ],
+  [
+    "Cách thiết lập Google Maps API ↗",
+    "Google Maps API setup guide ↗",
+    "Anleitung zur Einrichtung der Google Maps API ↗"
+  ],
+  [
+    "Chưa có tuyến nào. Vẽ theo chiều xe chạy trên bản đồ K305.",
+    "No routes yet. Draw a route on the K305 map in the direction of travel.",
+    "Noch keine Routen. Zeichne auf der K305-Karte in Fahrtrichtung."
+  ],
+  [
+    "Đã số hóa gần đúng 8 tuyến từ nét đã chú giải; hãy kiểm tra, xóa hoặc vẽ lại trên Google Maps. Bấm “Vẽ tuyến”, rồi nhấp dọc đường theo đúng chiều xe chạy. Dự đoán 3–5 giây bám tuyến gần nhất phù hợp vị trí và hướng; replay lịch sử giữ nguyên tọa độ JSON.",
+    "Eight approximate routes were digitized from the annotated strokes. Review, remove, or redraw them on Google Maps. Choose Draw route, then click along the road in the direction of travel. The 3–5 second forecast follows the closest route that matches position and heading; historical replay keeps the original JSON coordinates.",
+    "Acht Routen wurden näherungsweise aus den markierten Linien digitalisiert. Prüfe, entferne oder zeichne sie auf Google Maps neu. Wähle „Route zeichnen“ und klicke dann in Fahrtrichtung entlang der Straße. Die 3–5-Sekunden-Prognose folgt der nächsten Route, die zu Position und Richtung passt; die historische Wiedergabe behält die ursprünglichen JSON-Koordinaten bei."
+  ]
+]
